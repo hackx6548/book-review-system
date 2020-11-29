@@ -17,3 +17,11 @@ Usually, clients such as mobile apps or web front-end use APIs to communicate wi
 **Application Database Design**
 
 <img src="public/data_design.png">
+
+To create our app that will be an API server:
+
+```bash
+$ rails new book_review_system --api
+```
+
+--api will remove the assets, helpers and views that makes an application work on browser.
