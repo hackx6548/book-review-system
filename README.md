@@ -13,3 +13,7 @@ Usually, clients such as mobile apps or web front-end use APIs to communicate wi
 > REST stands for REpresentational State Transfer and it's an architectural style that use HTTP requests to GET, PUT, POST, and DELETE data.
 
 <img src="public/REST.png">
+
+**Application Database Design**
+
+<img src="public/data_design.png">
